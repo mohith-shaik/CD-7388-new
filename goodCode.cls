@@ -1,4 +1,4 @@
-public class CaseProcessor {
+public class goodCase {
 
     public void processAllCases(List<Case> caseList) {
       
