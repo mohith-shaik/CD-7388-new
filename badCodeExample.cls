@@ -1,4 +1,4 @@
-public class baCodeExample {
+public class badCodeExample {
 
     public void processAllCases(List<Case> caseList) {
         // LOOP
