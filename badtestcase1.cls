@@ -5,7 +5,6 @@ public class Test3 {
         integer  a = 1;
         String s = '' + 123;
         integer  a = 1;
-        String s = '' + 123;
         integer  a = 1;
         String s = '' + 123;
         integer  a = 1;
@@ -37,3 +36,4 @@ public class Test3 {
         
     }
 }
+
